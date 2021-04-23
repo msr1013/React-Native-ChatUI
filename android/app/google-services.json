@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926808317691",
+    "project_id": "chatapprn-4d7d3",
+    "storage_bucket": "chatapprn-4d7d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926808317691:android:c674e7b521cbbbb6b9da5e",
+        "android_client_info": {
+          "package_name": "com.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926808317691-miova3ivgfff9vn113s2otj6up8kne5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvPy-qoediedImywX_kdcYFrs4z30s0Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926808317691-miova3ivgfff9vn113s2otj6up8kne5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
